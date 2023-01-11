@@ -2,8 +2,8 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ Mirror And Community Of AnyLogistic
-🌈 Software support and guidance
-👩‍💻 It is available in the forum repository
-🍿 Code with git flavor
+🙋‍♀️ Forum And Community<br>
+🌈 Support and guidance<br>
+👩‍💻 It is available in the forum repository<br>
+🍿 Code with git flavor<br>
 🧙 [Website](https://anylogistix.ir)
