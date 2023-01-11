@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+**Why was it created?:**
 
 🙋‍♀️ Forum And Community<br>
 🌈 Support and guidance<br>
 👩‍💻 It is available in the forum repository<br>
-🍿 Code with git flavor<br>
 🧙 [Website](https://anylogistix.ir)
+
+## [Forum](https://github.com/anylogistix/forum/discussions)
